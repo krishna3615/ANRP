@@ -4,6 +4,7 @@
 ## Automatic number plate recognition (ANPR):
 Number Plate recognition, also called License Plate realization or recognition using image processing methods is a potential research area in smart cities and the Internet of Things. An exponential increase in the number of vehicles necessitates the use of automated systems to maintain vehicle information for various purposes.
 
+INPUT
 ![Image](https://github.com/user-attachments/assets/d5275aab-7f3c-4103-9279-98529ecab443)
 
 ## Implementation: 
@@ -11,6 +12,7 @@ In the proposed algorithm an efficient method for recognition of Indian vehicle 
 
 This project will work efficiently in recognizing owner's vehicle in small Institutions/Housing societies/Apartments. We can further modify the code to use it in other areas where ANPR is necessary. 
 
+OUTPUT
 ![Image](https://github.com/user-attachments/assets/025a10d6-02ed-4cdd-b339-7005a19e966c)
 
 Refer [Project_Report.pdf](Project_Report.pdf) and [Project Implementation vedio](https://drive.google.com/file/d/1ftCxlbQqHYLonTMoqEFcAyVe4OKleW2j/view?usp=sharing)  for more details regarding the implementation. 
